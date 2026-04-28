@@ -1,0 +1,4 @@
+﻿  main.c
+C:\2026_class\자료구조\실습\week5\Project1\complex\main.c(16,10): warning C4101: 'c1' :참조되지 않은 지역 변수입니다.
+C:\2026_class\자료구조\실습\week5\Project1\complex\main.c(16,14): warning C4101: 'c2' :참조되지 않은 지역 변수입니다.
+  complex.vcxproj -> C:\2026_class\자료구조\실습\week5\Project1\x64\Debug\complex.exe

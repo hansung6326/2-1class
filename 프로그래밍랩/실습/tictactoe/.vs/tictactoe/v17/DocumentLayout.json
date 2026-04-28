@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\tictactoe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6AAF79-423D-45F8-AC3C-78AE3191212C}|tictactoe.vcxproj|C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\tictactoe\\a.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B6AAF79-423D-45F8-AC3C-78AE3191212C}|tictactoe.vcxproj|solutionrelative:a.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6AAF79-423D-45F8-AC3C-78AE3191212C}|tictactoe.vcxproj|C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\tictactoe\\tictactoe.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B6AAF79-423D-45F8-AC3C-78AE3191212C}|tictactoe.vcxproj|solutionrelative:tictactoe.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA5B9C6-7502-42E2-B1B5-DC7AC2872B1E}|..\\prime\\prime.vcxproj|C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\prime\\plus_prime.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA5B9C6-7502-42E2-B1B5-DC7AC2872B1E}|..\\prime\\prime.vcxproj|C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\prime\\primenum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 241,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "primenum.c",
+              "DocumentMoniker": "C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\prime\\primenum.c",
+              "RelativeDocumentMoniker": "..\\prime\\primenum.c",
+              "ToolTip": "C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\prime\\primenum.c",
+              "RelativeToolTip": "..\\prime\\primenum.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-19T15:35:29.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "a.c",
+              "DocumentMoniker": "C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\tictactoe\\a.c",
+              "RelativeDocumentMoniker": "a.c",
+              "ToolTip": "C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\tictactoe\\a.c",
+              "RelativeToolTip": "a.c",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-20T15:52:14.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tictactoe.c",
+              "DocumentMoniker": "C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\tictactoe\\tictactoe.c",
+              "RelativeDocumentMoniker": "tictactoe.c",
+              "ToolTip": "C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\tictactoe\\tictactoe.c",
+              "RelativeToolTip": "tictactoe.c",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-20T15:14:39.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "plus_prime.c",
+              "DocumentMoniker": "C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\prime\\plus_prime.c",
+              "RelativeDocumentMoniker": "..\\prime\\plus_prime.c",
+              "ToolTip": "C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\prime\\plus_prime.c",
+              "RelativeToolTip": "..\\prime\\plus_prime.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-20T15:17:04.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

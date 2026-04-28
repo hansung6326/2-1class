@@ -1,0 +1,3 @@
+﻿  main.c
+C:\2026_class\프로그래밍랩\실습\week7\chap\copy\main.c(8,7): warning C4101: 'buffer' :참조되지 않은 지역 변수입니다.
+  copy.vcxproj -> C:\2026_class\프로그래밍랩\실습\week7\chap\x64\Debug\copy.exe

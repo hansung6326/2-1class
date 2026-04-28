@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mcpe1\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2026 \uAC15\uC758\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\SimpleC\u002B\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDBCCDA-960E-4A67-9D35-FF96C956513D}|..\\password@@@\\password@@@.vcxproj|C:\\Users\\mcpe1\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2026 \uAC15\uC758\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\password@@@\\password.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2C2932-F112-427B-936C-0B679C645719}|SimpleC\u002B\u002B.vcxproj|C:\\Users\\mcpe1\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2026 \uAC15\uC758\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\SimpleC\u002B\u002B\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF2C2932-F112-427B-936C-0B679C645719}|SimpleC\u002B\u002B.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 241,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "password.cpp",
+              "DocumentMoniker": "C:\\Users\\mcpe1\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2026 \uAC15\uC758\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\password@@@\\password.cpp",
+              "RelativeDocumentMoniker": "..\\password@@@\\password.cpp",
+              "ToolTip": "C:\\Users\\mcpe1\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2026 \uAC15\uC758\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\password@@@\\password.cpp",
+              "RelativeToolTip": "..\\password@@@\\password.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-10T08:19:28.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\mcpe1\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2026 \uAC15\uC758\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\SimpleC\u002B\u002B\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\mcpe1\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2026 \uAC15\uC758\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\SimpleC\u002B\u002B\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-10T06:16:38.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week5\\\uC2E4\uC2B5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC900AC8-A99E-459A-ACEE-DF741516C192}|Game\\Game.vcxproj|C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week5\\\uC2E4\uC2B5\\Game\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC900AC8-A99E-459A-ACEE-DF741516C192}|Game\\Game.vcxproj|solutionrelative:Game\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04277C37-BECC-490D-B0A1-ADAF78468B28}|pointer\\pointer.vcxproj|C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week5\\\uC2E4\uC2B5\\pointer\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04277C37-BECC-490D-B0A1-ADAF78468B28}|pointer\\pointer.vcxproj|solutionrelative:pointer\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "game.cpp",
+              "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week5\\\uC2E4\uC2B5\\Game\\game.cpp",
+              "RelativeDocumentMoniker": "Game\\game.cpp",
+              "ToolTip": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week5\\\uC2E4\uC2B5\\Game\\game.cpp",
+              "RelativeToolTip": "Game\\game.cpp",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-31T08:28:00.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week5\\\uC2E4\uC2B5\\pointer\\main.cpp",
+              "RelativeDocumentMoniker": "pointer\\main.cpp",
+              "ToolTip": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week5\\\uC2E4\uC2B5\\pointer\\main.cpp",
+              "RelativeToolTip": "pointer\\main.cpp",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-31T06:07:07.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

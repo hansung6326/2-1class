@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2026_class\\\uC790\uB8CC\uAD6C\uC870\\\uC2E4\uC2B5\\week5\\chap5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF7D6A2-AB41-4629-A229-8B75CE3BB2A6}|malloc\\malloc.vcxproj|C:\\2026_class\\\uC790\uB8CC\uAD6C\uC870\\\uC2E4\uC2B5\\week5\\chap5\\malloc\\malloc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DF7D6A2-AB41-4629-A229-8B75CE3BB2A6}|malloc\\malloc.vcxproj|solutionrelative:malloc\\malloc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1DD8D8-4E4B-401C-BF82-635E369BE052}|pointer2D\\pointer2D.vcxproj|C:\\2026_class\\\uC790\uB8CC\uAD6C\uC870\\\uC2E4\uC2B5\\week5\\chap5\\pointer2D\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB1DD8D8-4E4B-401C-BF82-635E369BE052}|pointer2D\\pointer2D.vcxproj|solutionrelative:pointer2D\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\2026_class\\\uC790\uB8CC\uAD6C\uC870\\\uC2E4\uC2B5\\week5\\chap5\\pointer2D\\main.c",
+              "RelativeDocumentMoniker": "pointer2D\\main.c",
+              "ToolTip": "C:\\2026_class\\\uC790\uB8CC\uAD6C\uC870\\\uC2E4\uC2B5\\week5\\chap5\\pointer2D\\main.c",
+              "RelativeToolTip": "pointer2D\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-02T05:00:25.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "malloc.c",
+              "DocumentMoniker": "C:\\2026_class\\\uC790\uB8CC\uAD6C\uC870\\\uC2E4\uC2B5\\week5\\chap5\\malloc\\malloc.c",
+              "RelativeDocumentMoniker": "malloc\\malloc.c",
+              "ToolTip": "C:\\2026_class\\\uC790\uB8CC\uAD6C\uC870\\\uC2E4\uC2B5\\week5\\chap5\\malloc\\malloc.c",
+              "RelativeToolTip": "malloc\\malloc.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-02T04:44:33.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

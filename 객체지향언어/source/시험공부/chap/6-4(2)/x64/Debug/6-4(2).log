@@ -1,0 +1,5 @@
+﻿  소스.cpp
+C:\2026_class\객체지향언어\source\시험공부\chap\6-4(2)\소스.cpp(19,23): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\2026_class\객체지향언어\source\시험공부\chap\6-4(2)\소스.cpp(24,23): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\2026_class\객체지향언어\source\시험공부\chap\6-4(2)\소스.cpp(26,19): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  6-4(2).vcxproj -> C:\2026_class\객체지향언어\source\시험공부\chap\x64\Debug\6-4(2).exe

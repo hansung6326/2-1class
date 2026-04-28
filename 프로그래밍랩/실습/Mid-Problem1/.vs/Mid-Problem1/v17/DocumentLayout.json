@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\Mid-Problem1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1504371-97A4-4FED-8C51-8AB1372453A7}|Mid-Problem1\\Mid-Problem1.vcxproj|C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\Mid-Problem1\\Mid-Problem1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1504371-97A4-4FED-8C51-8AB1372453A7}|Mid-Problem1\\Mid-Problem1.vcxproj|solutionrelative:Mid-Problem1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1504371-97A4-4FED-8C51-8AB1372453A7}|Mid-Problem1\\Mid-Problem1.vcxproj|C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\Mid-Problem1\\Mid-Problem1\\message5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1504371-97A4-4FED-8C51-8AB1372453A7}|Mid-Problem1\\Mid-Problem1.vcxproj|solutionrelative:Mid-Problem1\\message5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1504371-97A4-4FED-8C51-8AB1372453A7}|Mid-Problem1\\Mid-Problem1.vcxproj|C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\Mid-Problem1\\Mid-Problem1\\message4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1504371-97A4-4FED-8C51-8AB1372453A7}|Mid-Problem1\\Mid-Problem1.vcxproj|solutionrelative:Mid-Problem1\\message4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1504371-97A4-4FED-8C51-8AB1372453A7}|Mid-Problem1\\Mid-Problem1.vcxproj|C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\Mid-Problem1\\Mid-Problem1\\message3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1504371-97A4-4FED-8C51-8AB1372453A7}|Mid-Problem1\\Mid-Problem1.vcxproj|solutionrelative:Mid-Problem1\\message3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1504371-97A4-4FED-8C51-8AB1372453A7}|Mid-Problem1\\Mid-Problem1.vcxproj|C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\Mid-Problem1\\Mid-Problem1\\message2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1504371-97A4-4FED-8C51-8AB1372453A7}|Mid-Problem1\\Mid-Problem1.vcxproj|solutionrelative:Mid-Problem1\\message2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1504371-97A4-4FED-8C51-8AB1372453A7}|Mid-Problem1\\Mid-Problem1.vcxproj|C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\Mid-Problem1\\Mid-Problem1\\message1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1504371-97A4-4FED-8C51-8AB1372453A7}|Mid-Problem1\\Mid-Problem1.vcxproj|solutionrelative:Mid-Problem1\\message1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\Mid-Problem1\\Mid-Problem1\\main.c",
+              "RelativeDocumentMoniker": "Mid-Problem1\\main.c",
+              "ToolTip": "C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\Mid-Problem1\\Mid-Problem1\\main.c",
+              "RelativeToolTip": "Mid-Problem1\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-27T03:30:59.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "message5.c",
+              "DocumentMoniker": "C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\Mid-Problem1\\Mid-Problem1\\message5.c",
+              "RelativeDocumentMoniker": "Mid-Problem1\\message5.c",
+              "ToolTip": "C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\Mid-Problem1\\Mid-Problem1\\message5.c",
+              "RelativeToolTip": "Mid-Problem1\\message5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-27T03:29:50.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "message4.c",
+              "DocumentMoniker": "C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\Mid-Problem1\\Mid-Problem1\\message4.c",
+              "RelativeDocumentMoniker": "Mid-Problem1\\message4.c",
+              "ToolTip": "C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\Mid-Problem1\\Mid-Problem1\\message4.c",
+              "RelativeToolTip": "Mid-Problem1\\message4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-27T03:28:52.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "message3.c",
+              "DocumentMoniker": "C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\Mid-Problem1\\Mid-Problem1\\message3.c",
+              "RelativeDocumentMoniker": "Mid-Problem1\\message3.c",
+              "ToolTip": "C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\Mid-Problem1\\Mid-Problem1\\message3.c",
+              "RelativeToolTip": "Mid-Problem1\\message3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-27T03:27:54.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "message2.c",
+              "DocumentMoniker": "C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\Mid-Problem1\\Mid-Problem1\\message2.c",
+              "RelativeDocumentMoniker": "Mid-Problem1\\message2.c",
+              "ToolTip": "C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\Mid-Problem1\\Mid-Problem1\\message2.c",
+              "RelativeToolTip": "Mid-Problem1\\message2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-27T03:26:51.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "message1.c",
+              "DocumentMoniker": "C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\Mid-Problem1\\Mid-Problem1\\message1.c",
+              "RelativeDocumentMoniker": "Mid-Problem1\\message1.c",
+              "ToolTip": "C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\Mid-Problem1\\Mid-Problem1\\message1.c",
+              "RelativeToolTip": "Mid-Problem1\\message1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-27T03:25:20.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

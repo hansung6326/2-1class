@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7DA2AB-EEC8-48B3-98A8-AC87B994273C}|swallowcopy\\swallowcopy.vcxproj|C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\swallowcopy\\swallowcopy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C7DA2AB-EEC8-48B3-98A8-AC87B994273C}|swallowcopy\\swallowcopy.vcxproj|solutionrelative:swallowcopy\\swallowcopy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C88E1A6-6585-4635-8693-9C5A746E9B08}|circle2\\circle2.vcxproj|C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\circle2\\circle2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C88E1A6-6585-4635-8693-9C5A746E9B08}|circle2\\circle2.vcxproj|solutionrelative:circle2\\circle2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA46EEF4-09DA-4FC1-8473-6F7917E05A06}|5-6\\5-6.vcxproj|C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\5-6\\Polygon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA46EEF4-09DA-4FC1-8473-6F7917E05A06}|5-6\\5-6.vcxproj|solutionrelative:5-6\\Polygon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA46EEF4-09DA-4FC1-8473-6F7917E05A06}|5-6\\5-6.vcxproj|C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\5-6\\polygon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA46EEF4-09DA-4FC1-8473-6F7917E05A06}|5-6\\5-6.vcxproj|solutionrelative:5-6\\polygon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA46EEF4-09DA-4FC1-8473-6F7917E05A06}|5-6\\5-6.vcxproj|C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\5-6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA46EEF4-09DA-4FC1-8473-6F7917E05A06}|5-6\\5-6.vcxproj|solutionrelative:5-6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1572AC23-FD1D-4876-B5BC-CF808327318E}|5-8\\5-8.vcxproj|C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\5-8\\fitness.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1572AC23-FD1D-4876-B5BC-CF808327318E}|5-8\\5-8.vcxproj|solutionrelative:5-8\\fitness.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1572AC23-FD1D-4876-B5BC-CF808327318E}|5-8\\5-8.vcxproj|C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\5-8\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1572AC23-FD1D-4876-B5BC-CF808327318E}|5-8\\5-8.vcxproj|solutionrelative:5-8\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1572AC23-FD1D-4876-B5BC-CF808327318E}|5-8\\5-8.vcxproj|C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\5-8\\Fitness.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1572AC23-FD1D-4876-B5BC-CF808327318E}|5-8\\5-8.vcxproj|solutionrelative:5-8\\Fitness.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30271607-0432-49D3-AA7E-E1D43B70DAB3}|average\\average.vcxproj|C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\average\\avg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30271607-0432-49D3-AA7E-E1D43B70DAB3}|average\\average.vcxproj|solutionrelative:average\\avg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D1CB59-EDAA-4B71-83BD-088845F4F7E9}|5-3\\5-3.vcxproj|C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\5-3\\bubble.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09D1CB59-EDAA-4B71-83BD-088845F4F7E9}|5-3\\5-3.vcxproj|solutionrelative:5-3\\bubble.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7CF3D1-89EA-491C-AEB5-25E9F8843B4A}|ref2\\ref2.vcxproj|C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\ref2\\ref2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF7CF3D1-89EA-491C-AEB5-25E9F8843B4A}|ref2\\ref2.vcxproj|solutionrelative:ref2\\ref2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A95F2CD-641F-4B49-93DD-AE58DCE62C27}|ref\\ref.vcxproj|C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\ref\\ref.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A95F2CD-641F-4B49-93DD-AE58DCE62C27}|ref\\ref.vcxproj|solutionrelative:ref\\ref.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890A0381-9A0E-4211-85CC-51FB1A487BFF}|Circle\\Circle.vcxproj|C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\Circle\\circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{890A0381-9A0E-4211-85CC-51FB1A487BFF}|Circle\\Circle.vcxproj|solutionrelative:Circle\\circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "swallowcopy.cpp",
+              "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\swallowcopy\\swallowcopy.cpp",
+              "RelativeDocumentMoniker": "swallowcopy\\swallowcopy.cpp",
+              "ToolTip": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\swallowcopy\\swallowcopy.cpp",
+              "RelativeToolTip": "swallowcopy\\swallowcopy.cpp",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-14T07:09:59.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "circle2.cpp",
+              "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\circle2\\circle2.cpp",
+              "RelativeDocumentMoniker": "circle2\\circle2.cpp",
+              "ToolTip": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\circle2\\circle2.cpp",
+              "RelativeToolTip": "circle2\\circle2.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-14T07:09:01.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Fitness.cpp",
+              "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\5-8\\Fitness.cpp",
+              "RelativeDocumentMoniker": "5-8\\Fitness.cpp",
+              "ToolTip": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\5-8\\Fitness.cpp",
+              "RelativeToolTip": "5-8\\Fitness.cpp",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAB4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-07T17:04:05.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fitness.h",
+              "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\5-8\\Fitness.h",
+              "RelativeDocumentMoniker": "5-8\\Fitness.h",
+              "ToolTip": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\5-8\\Fitness.h",
+              "RelativeToolTip": "5-8\\Fitness.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-07T17:02:31.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\5-8\\main.cpp",
+              "RelativeDocumentMoniker": "5-8\\main.cpp",
+              "ToolTip": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\5-8\\main.cpp",
+              "RelativeToolTip": "5-8\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-07T11:06:02.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Polygon.cpp",
+              "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\5-6\\Polygon.cpp",
+              "RelativeDocumentMoniker": "5-6\\Polygon.cpp",
+              "ToolTip": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\5-6\\Polygon.cpp",
+              "RelativeToolTip": "5-6\\Polygon.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-07T10:57:12.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Polygon.h",
+              "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\5-6\\Polygon.h",
+              "RelativeDocumentMoniker": "5-6\\Polygon.h",
+              "ToolTip": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\5-6\\Polygon.h",
+              "RelativeToolTip": "5-6\\Polygon.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-07T10:55:46.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\5-6\\main.cpp",
+              "RelativeDocumentMoniker": "5-6\\main.cpp",
+              "ToolTip": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\5-6\\main.cpp",
+              "RelativeToolTip": "5-6\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-07T09:01:55.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bubble.cpp",
+              "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\5-3\\bubble.cpp",
+              "RelativeDocumentMoniker": "5-3\\bubble.cpp",
+              "ToolTip": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\5-3\\bubble.cpp",
+              "RelativeToolTip": "5-3\\bubble.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-07T08:31:02.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ref2.cpp",
+              "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\ref2\\ref2.cpp",
+              "RelativeDocumentMoniker": "ref2\\ref2.cpp",
+              "ToolTip": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\ref2\\ref2.cpp",
+              "RelativeToolTip": "ref2\\ref2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-07T08:13:29.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "avg.cpp",
+              "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\average\\avg.cpp",
+              "RelativeDocumentMoniker": "average\\avg.cpp",
+              "ToolTip": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\average\\avg.cpp",
+              "RelativeToolTip": "average\\avg.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-07T07:25:23.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ref.cpp",
+              "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\ref\\ref.cpp",
+              "RelativeDocumentMoniker": "ref\\ref.cpp",
+              "ToolTip": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\ref\\ref.cpp",
+              "RelativeToolTip": "ref\\ref.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-07T06:59:55.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "circle.cpp",
+              "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\Circle\\circle.cpp",
+              "RelativeDocumentMoniker": "Circle\\circle.cpp",
+              "ToolTip": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week6\\\uC2E4\uC2B5\\Circle\\circle.cpp",
+              "RelativeToolTip": "Circle\\circle.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-07T06:27:24.968Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
