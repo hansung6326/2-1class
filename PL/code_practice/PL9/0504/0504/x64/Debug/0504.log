@@ -1,0 +1,4 @@
+﻿  assign2.c
+C:\2026_class\PL\code_practice\PL9\0504\0504\assign2.c(17,13): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\2026_class\PL\code_practice\PL9\0504\0504\assign2.c(17,7): warning C4312: '형식 캐스트': 'int'에서 더 큰 'int *'(으)로의 변환입니다.
+  0504.vcxproj -> C:\2026_class\PL\code_practice\PL9\0504\x64\Debug\0504.exe
