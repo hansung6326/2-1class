@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\2026_class\객체지향언어\source\week10\chap8\ColorPoint\main.cpp(28,8): warning C4101: 'p' :참조되지 않은 지역 변수입니다.
+  ColorPoint.vcxproj -> C:\2026_class\객체지향언어\source\week10\chap8\x64\Debug\ColorPoint.exe

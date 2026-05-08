@@ -9,8 +9,8 @@ typedef struct ListNode {
 	struct ListNode* link;
 }ListNode;
 
-bool is_empty(ListNode* head) {
-	return head == NULL;
+bool is_empty(ListNode* list) {
+	return list == NULL;
 }
 
 bool is_full() {
@@ -21,42 +21,42 @@ bool is_full() {
 	return false;
 }
 
-ListNode* add(ListNode* head, element item) {
+ListNode* add(ListNode* list, element item) {
 	if (is_full()) {
 		printf("memory is full\n");
-		return head;
+		return list;
 	}
 
 	ListNode* p = (ListNode*)malloc(sizeof(ListNode));
 	p->data = item;
 	p->link = NULL;
 
-	if (is_empty(head)) {
-		head = p;
-		return head;
+	if (is_empty(list)) {
+		list = p;
+		return list;
 	}
 
-	if (item < head->data) {
-		p->link = head;
-		head = p;
-		return head;
+	if (item < list->data) {
+		p->link = list;
+		list = p;
+		return list;
 	}
 	else {
-		ListNode* pre = head;
+		ListNode* pre = list;
 		while (pre->link != NULL && pre->link->data < item) {
 			pre = pre->link;
 		}
 		p->link = pre->link;
 		pre->link = p;
-		return head;
+		return list;
 	}
 
 }
 
-ListNode* delete(ListNode* head, element item) {
+ListNode* delete(ListNode* list, element item) {
 	ListNode* removed;
 	ListNode* pre = NULL;
-	ListNode* p = head;
+	ListNode* p = list;
 
 	while (p != NULL && p->data != item) {
 		pre = p;
@@ -64,24 +64,24 @@ ListNode* delete(ListNode* head, element item) {
 	}
 	if (p == NULL) {
 		printf("%d를 찾을 수 없습니다\n", item);
-		return head;
+		return list;
 	}
 
 	removed = p;
 	if (pre == NULL)
-		head = removed->link;
+		list = removed->link;
 	else
 		pre->link = removed->link;
 
 	free(removed);
 	printf("%d가 삭제되었습니다.\n", item);
-	return head;
+	return list;
 
 }
 
-ListNode* clear(ListNode* head) {
+ListNode* clear(ListNode* list) {
 	ListNode* p, * removed;
-	p = head;
+	p = list;
 	while (p != NULL) {
 		removed = p;
 		p = p->link;
@@ -91,8 +91,8 @@ ListNode* clear(ListNode* head) {
 	return NULL;
 }
 
-bool is_in_list(ListNode* head, element item) {
-	ListNode* p = head;
+bool is_in_list(ListNode* list, element item) {
+	ListNode* p = list;
 	while (p != NULL) {
 		if (p->data == item)
 			return true;
@@ -102,15 +102,15 @@ bool is_in_list(ListNode* head, element item) {
 
 }
 
-int get_length(ListNode* head) {
+int get_length(ListNode* list) {
 	int count = 0;
-	for (ListNode* p = head; p != NULL; p = p->link)
+	for (ListNode* p = list; p != NULL; p = p->link)
 		count++;
 	return count;
 }
 
-void display(ListNode* head) {
-	for (ListNode* p = head; p != NULL; p = p->link)
+void display(ListNode* list) {
+	for (ListNode* p = list; p != NULL; p = p->link)
 		printf("%d->", p->data);
 	printf("NULL\n");
 }
