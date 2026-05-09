@@ -116,60 +116,19 @@ void display(ListNode* list) {
 }
 
 int main() {
-	ListNode* head = NULL;
+	ListNode* list = NULL;
+	printf("단순 연결 리스트로 SortedList 구현하기\n");
+	printf("학번: 2371172 안태호\n");
 
-	printf("===== SortedList 테스트 =====\n\n");
-
-	// 요소 추가 테스트
-	printf("[요소 추가]\n");
-	head = add(head, 30);   display(head);
-	head = add(head, 10);   display(head);
-	head = add(head, 50);   display(head);
-	head = add(head, 20);   display(head);
-	head = add(head, 40);   display(head);
-	head = add(head, 5);    display(head);
+	int items[] = { 40, 10, 70, 25, 55, 9, 99 };
+	int n = sizeof(items) / sizeof(items[0]);
+	for (int i = 0; i < n; i++) {
+		printf("add(%d) -> ", items[i]);
+		list = add(list, items[i]);
+		display(list);
+	}
 	printf("\n");
 
-	// 현재 상태 출력
-	printf("[현재 리스트 상태]\n");
-	display(head);
-	printf("\n");
-
-	// 검색 테스트
-	printf("[검색 테스트]\n");
-	printf("20이 리스트에 있는가? %s\n", is_in_list(head, 20) ? "예" : "아니오");
-	printf("99가 리스트에 있는가? %s\n", is_in_list(head, 99) ? "예" : "아니오");
-	printf("\n");
-
-	// 길이 및 상태 확인
-	printf("[상태 확인]\n");
-	printf("리스트 길이: %d\n", get_length(head));
-	printf("리스트가 비었는가? %s\n", is_empty(head) ? "예" : "아니오");
-	printf("리스트가 꽉 찼는가? %s\n", is_full(head) ? "예" : "아니오");
-	printf("\n");
-
-	// 삭제 테스트
-	printf("[요소 삭제]\n");
-	head = delete(head, 10);    display(head);
-	head = delete(head, 50);    display(head);
-	head = delete(head, 99);    // 존재하지 않는 요소
-	printf("\n");
-
-	// 리스트 초기화
-	printf("[리스트 초기화]\n");
-	head = clear(head);
-	display(head);
-	printf("리스트가 비었는가? %s\n", is_empty(head) ? "예" : "아니오");
-	printf("\n");
-
-	// 초기화 후 새 요소 추가
-	printf("[초기화 후 새 요소 추가]\n");
-	head = add(head, 100);
-	head = add(head, 25);
-	head = add(head, 75);
-	display(head);
-
-	// 메모리 해제
-	head = clear(head);
+	list = clear(list);
 	return 0;
 }
