@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "9-2\\main.cpp",
               "ToolTip": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week11\\chap9\\9-2\\main.cpp",
               "RelativeToolTip": "9-2\\main.cpp",
-              "ViewState": "AgIAABYAAAAAAAAAAAAIwCQAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwCQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-12T17:29:30.508Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "9-1\\main.cpp",
               "ViewState": "AgIAAAoAAAAAAAAAAAAIwBEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-12T17:04:38.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T17:04:38.951Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "GraphicEditor\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-12T06:57:15.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T06:57:15.553Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "derived\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-12T06:09:13.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T06:09:13.358Z"
             }
           ]
         }
