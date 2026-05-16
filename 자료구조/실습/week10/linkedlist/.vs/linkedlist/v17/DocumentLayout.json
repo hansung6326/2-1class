@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\2026_class\\\uC790\uB8CC\uAD6C\uC870\\\uC2E4\uC2B5\\week10\\linkedlist\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0BCBE512-5640-47FD-863D-7A11AACEAA6F}|Project2\\Project2.vcxproj|C:\\2026_class\\\uC790\uB8CC\uAD6C\uC870\\\uC2E4\uC2B5\\week10\\linkedlist\\Project2\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BCBE512-5640-47FD-863D-7A11AACEAA6F}|Project2\\Project2.vcxproj|solutionrelative:Project2\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{142B2A76-7C73-4B3C-8A24-F46D2EA38759}|linkedlist\\linkedlist.vcxproj|C:\\2026_class\\\uC790\uB8CC\uAD6C\uC870\\\uC2E4\uC2B5\\week10\\linkedlist\\linkedlist\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{142B2A76-7C73-4B3C-8A24-F46D2EA38759}|linkedlist\\linkedlist.vcxproj|solutionrelative:linkedlist\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -20,11 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.c",
+              "DocumentMoniker": "C:\\2026_class\\\uC790\uB8CC\uAD6C\uC870\\\uC2E4\uC2B5\\week10\\linkedlist\\Project2\\main.c",
+              "RelativeDocumentMoniker": "Project2\\main.c",
+              "ToolTip": "C:\\2026_class\\\uC790\uB8CC\uAD6C\uC870\\\uC2E4\uC2B5\\week10\\linkedlist\\Project2\\main.c",
+              "RelativeToolTip": "Project2\\main.c",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAIwGEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-05-15T19:40:49.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
               "DocumentMoniker": "C:\\2026_class\\\uC790\uB8CC\uAD6C\uC870\\\uC2E4\uC2B5\\week10\\linkedlist\\linkedlist\\main.c",
               "RelativeDocumentMoniker": "linkedlist\\main.c",
               "ToolTip": "C:\\2026_class\\\uC790\uB8CC\uAD6C\uC870\\\uC2E4\uC2B5\\week10\\linkedlist\\linkedlist\\main.c",
               "RelativeToolTip": "linkedlist\\main.c",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-05-14T04:52:51.915Z",
               "EditorCaption": ""
