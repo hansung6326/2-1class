@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2026\\PL\\chap7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D17607C2-1E57-4808-B8C0-13C7D60C2BE3}|operator\\operator.vcxproj|C:\\2026\\PL\\chap7\\operator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D17607C2-1E57-4808-B8C0-13C7D60C2BE3}|operator\\operator.vcxproj|solutionrelative:operator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086EF43A-3C14-48BC-9F29-6D79E708ED7E}|friend\\friend.vcxproj|C:\\2026\\PL\\chap7\\friend\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{086EF43A-3C14-48BC-9F29-6D79E708ED7E}|friend\\friend.vcxproj|solutionrelative:friend\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\2026\\PL\\chap7\\operator\\main.cpp",
+              "RelativeDocumentMoniker": "operator\\main.cpp",
+              "ToolTip": "C:\\2026\\PL\\chap7\\operator\\main.cpp",
+              "RelativeToolTip": "operator\\main.cpp",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAIcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-28T06:28:53.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\2026\\PL\\chap7\\friend\\main.cpp",
+              "RelativeDocumentMoniker": "friend\\main.cpp",
+              "ToolTip": "C:\\2026\\PL\\chap7\\friend\\main.cpp",
+              "RelativeToolTip": "friend\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-28T06:15:00.349Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
