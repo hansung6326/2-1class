@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\week11\\connect\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{033A342B-AE53-4778-892C-6AF1249DE7E2}|game\\game.vcxproj|C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\week11\\connect\\game\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{033A342B-AE53-4778-892C-6AF1249DE7E2}|game\\game.vcxproj|solutionrelative:game\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E0E338F4-6BF2-45D7-86BC-E334D72BBB33}|connect\\connect.vcxproj|C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\week11\\connect\\connect\\title.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E0E338F4-6BF2-45D7-86BC-E334D72BBB33}|connect\\connect.vcxproj|solutionrelative:connect\\title.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,15 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\week11\\connect\\game\\main.c",
+              "RelativeDocumentMoniker": "game\\main.c",
+              "ToolTip": "C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\week11\\connect\\game\\main.c",
+              "RelativeToolTip": "game\\main.c",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAKIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-05-17T10:41:57.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "title.c",
               "DocumentMoniker": "C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\week11\\connect\\connect\\title.c",
               "RelativeDocumentMoniker": "connect\\title.c",
               "ToolTip": "C:\\2026_class\\\uD504\uB85C\uADF8\uB798\uBC0D\uB7A9\\\uC2E4\uC2B5\\week11\\connect\\connect\\title.c",
               "RelativeToolTip": "connect\\title.c",
-              "ViewState": "AgIAAEkEAAAAAAAAAAAIwFgEAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAOABAAAAAAAAAAAAAH4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-05-15T15:40:16.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-15T15:40:16.678Z"
             }
           ]
         }

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2026_class\\PL\\code_practice\\PL11\\0518\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3343F7C-633E-43FF-B61D-75AB04904DDF}|0518\\0518.vcxproj|C:\\2026_class\\PL\\code_practice\\PL11\\0518\\0518\\funca.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3343F7C-633E-43FF-B61D-75AB04904DDF}|0518\\0518.vcxproj|solutionrelative:0518\\funca.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3343F7C-633E-43FF-B61D-75AB04904DDF}|0518\\0518.vcxproj|C:\\2026_class\\PL\\code_practice\\PL11\\0518\\0518\\main2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3343F7C-633E-43FF-B61D-75AB04904DDF}|0518\\0518.vcxproj|solutionrelative:0518\\main2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "funca.c",
+              "DocumentMoniker": "C:\\2026_class\\PL\\code_practice\\PL11\\0518\\0518\\funca.c",
+              "RelativeDocumentMoniker": "0518\\funca.c",
+              "ToolTip": "C:\\2026_class\\PL\\code_practice\\PL11\\0518\\0518\\funca.c",
+              "RelativeToolTip": "0518\\funca.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-05-18T04:03:13.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main2.c",
+              "DocumentMoniker": "C:\\2026_class\\PL\\code_practice\\PL11\\0518\\0518\\main2.c",
+              "RelativeDocumentMoniker": "0518\\main2.c",
+              "ToolTip": "C:\\2026_class\\PL\\code_practice\\PL11\\0518\\0518\\main2.c",
+              "RelativeToolTip": "0518\\main2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-05-18T04:01:54.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
