@@ -2,7 +2,6 @@
 #define LIGHT_H // LIGHT_H를 정의함(중복 포함 방지)
 
 #include <iostream> // 입출력 기능을 위한 표준 헤더 파일
-
 using namespace std; // std 이름공간에 선언된 모든 이름에 std를 생략함
 
 class Light { //Light 클래스 선언

@@ -4,7 +4,6 @@
 using namespace std; // std 이름공간에 선언된 모든 이름에 std를 생략함
 
 int main() {
-
 	//매개변수 생성자를 호출하여 Platinum 객체 생성
 	Platinum hwang("황기태", 5, 100000, 7);
 	Platinum park("박채원", 5, 100000, 7);

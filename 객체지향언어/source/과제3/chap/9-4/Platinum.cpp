@@ -11,10 +11,12 @@ Platinum::Platinum(string name, int ratio, int base, int bonusRatio) : AbstractP
 void Platinum::earn(int paymentAmount) {
 	
 	if (paymentAmount <= base) {// 결제 금액이 기준 금액 이하인 경우
-		point += paymentAmount * ratio / 100; // 기본 적립 비율로 포인트를 계산하여 저장
+		// 기본 적립 비율로 포인트를 계산하여 저장
+		point += paymentAmount * ratio / 100; 
 	}
 	else { //결제 금액이 기준 금액을 초과하는 경우
-		point += paymentAmount * bonusRatio / 100; // 추가 적립 비율로 포인트를 계산하여 저장
+		// 추가 적립 비율로 포인트를 계산하여 저장
+		point += paymentAmount * bonusRatio / 100; 
 	}
 }
 
