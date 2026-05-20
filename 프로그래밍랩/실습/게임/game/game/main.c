@@ -3,7 +3,6 @@
 #include <stdlib.h>
 #include <string.h>
 #include <conio.h>
-#include <windows.h>
 
 #define MAP_W 25
 #define MAP_H 18
@@ -21,7 +20,7 @@ int showKeyMsg = 0;
 char startMap[MAX_STAGE][MAP_H][MAP_W] = {
     // 스테이지 1
     {
-       "#########################",
+        "#########################",
         "#.......................#",
         "#.......................#",
         "#...................Q...#",
