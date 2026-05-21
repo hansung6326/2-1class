@@ -1,5 +1,4 @@
 ﻿#include "AbstractPoint.h" // AbstractPoint 클래스 선언 헤더 포함
-
 // 생성자 정의
 AbstractPoint::AbstractPoint(string name, int ratio) {
 	this->name = name; // 매개변수 name 값을 멤버 변수에 저장
