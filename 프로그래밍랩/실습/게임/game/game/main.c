@@ -58,7 +58,7 @@ void showTitle() {
 
     int w = (int)strlen(line1);
 
-    int startX = (cols - w) / 2;
+    int startX = 20;
     if (startX < 0) startX = 0;
 
     int startY = (rows - 8) / 2;
@@ -367,22 +367,37 @@ void showFullMap() {
         gotoxy(startX, mapStartY + y);
         for (int x = 0; x < MAP_W; x++) {
             if (x == playerX && y == playerY) {
-                printf("@");
+                printf("◎ ");   // 1칸 문자 + 공백 = 2칸
+            }
+            else if (map[y][x] == '#') {
+                printf("■ ");   // 1칸 + 공백 = 2칸
             }
             else if (map[y][x] == 'B' || map[y][x] == 'V') {
-                printf("■");
+                printf("□ ");   // 1칸 + 공백 = 2칸
+            }
+            else if (map[y][x] == 'K') {
+                printf("🔑");   // 이모지는 이미 2칸 (공백 없음)
+            }
+            else if (map[y][x] == 'G') {
+                printf("🚪");   // 이모지는 이미 2칸 (공백 없음)
             }
             else if (map[y][x] == 'T') {
-                printf("T");
+                printf("? ");   // 1칸 + 공백 = 2칸
             }
             else if (map[y][x] == 'O') {
-                printf("O");
+                printf("O ");   // 1칸 + 공백 = 2칸
             }
             else if (map[y][x] == 'Q') {
-                printf("Ø");
+                printf("Q ");   // 1칸 + 공백 = 2칸
+            }
+            else if (map[y][x] == '*') {
+                printf("^ ");   // 1칸 + 공백 = 2칸
+            }
+            else if (map[y][x] == '.') {
+                printf("  ");   // 공백 2칸
             }
             else {
-                printf("%c", map[y][x]);
+                printf("%c ", map[y][x]);  // 1칸 + 공백 = 2칸
             }
         }
     }
@@ -455,22 +470,37 @@ void drawMap() {
             int mx = viewX + sx;
 
             if (mx == playerX && my == playerY) {
-                printf("@");
+                printf("◎ ");   // 1칸 문자 + 공백 = 2칸
+            }
+            else if (map[my][mx] == '#') {
+                printf("■ ");   // 1칸 + 공백 = 2칸
             }
             else if (map[my][mx] == 'B' || map[my][mx] == 'V') {
-                printf("■");
+                printf("□ ");   // 1칸 + 공백 = 2칸
+            }
+            else if (map[my][mx] == 'K') {
+                printf("🔑");   // 이모지는 이미 2칸 (공백 없음)
+            }
+            else if (map[my][mx] == 'G') {
+                printf("🚪");   // 이모지는 이미 2칸 (공백 없음)
             }
             else if (map[my][mx] == 'T') {
-                printf("?");
+                printf("? ");   // 1칸 + 공백 = 2칸
             }
             else if (map[my][mx] == 'O') {
-                printf("O");
+                printf("O ");   // 1칸 + 공백 = 2칸
             }
             else if (map[my][mx] == 'Q') {
-                printf("Ø");
+                printf("Q ");   // 1칸 + 공백 = 2칸
+            }
+            else if (map[my][mx] == '*') {
+                printf("^ ");   // 1칸 + 공백 = 2칸
+            }
+            else if (map[my][mx] == '.') {
+                printf("  ");   // 공백 2칸
             }
             else {
-                printf("%c", map[my][mx]);
+                printf("%c ", map[my][mx]);  // 1칸 + 공백 = 2칸
             }
         }
     }
@@ -544,8 +574,12 @@ void runGame() {
         // ===== 입력 처리 (WASD만 사용) =====
         int key = _getch();
 
-        // 지도 보기
-        if (hasMap && (key == 'm' || key == 'M')) {
+        // 버그 수정 오른쪽 방향키를 누르면 지도가 열리는 버그를 수정
+        if (key == 224 || key == 0) {
+            key = _getch();
+            continue;
+        }
+        else if (hasMap && (key == 'm' || key == 'M')) { // 지도 보기
             showFullMap();
             continue;
         }
@@ -741,6 +775,7 @@ void runGame() {
 // ================= main =================
 
 int main() {
+
     while (1) {
         showTitle();  // 타이틀
 
