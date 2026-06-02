@@ -38,10 +38,18 @@ class ShortestFirst : public Schedule {
     bool* visited;
 public:
     ShortestFirst(int curloc, int n[], int count) : Schedule(curloc, n, count) {
-        // ✅ 부모 생성자 출력 후 짧은 거리 순으로 덮어서 출력
-        visited = new bool[count]();
-        int tmpLoc = curloc;
-        bool* tmpVisited = new bool[count]();
+        int p = 0;
+
+        for (int i = 0; i < count; i++) {
+            int shortest = -1;
+            for (int j = 0; j < count; j++) {
+                if (shortest == -1 || (abs(curLoc - n[j]) < abs(curLoc - n[shortest])))
+                    shortest = j;
+            }
+            jobs[p] = n[shortest];
+            p++;
+        }
+
 
         cout << "현재 위치는 " << curloc << "동: 배달 시작 ..." << curloc;
 
@@ -53,6 +61,7 @@ public:
                         shortest = j;
                 }
             }
+            
             cout << " -> " << jobs[shortest];
             tmpLoc = jobs[shortest];
             tmpVisited[shortest] = true;
