@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B651ABBE-C952-4445-AF19-6681420E15F6}|\uC608\uC81C10-3\\\uC608\uC81C10-3.vcxproj|C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\\uC608\uC81C10-3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B651ABBE-C952-4445-AF19-6681420E15F6}|\uC608\uC81C10-3\\\uC608\uC81C10-3.vcxproj|solutionrelative:\uC608\uC81C10-3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EB94E6-A0C6-481A-90EA-EC8AB792BE33}|\uC608\uC81C10-2\\\uC608\uC81C10-2.vcxproj|C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\\uC608\uC81C10-2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EB94E6-A0C6-481A-90EA-EC8AB792BE33}|\uC608\uC81C10-2\\\uC608\uC81C10-2.vcxproj|solutionrelative:\uC608\uC81C10-2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D25E123-0882-44A9-8B47-BE56D424449B}|\uC608\uC81C10-1\\\uC608\uC81C10-1.vcxproj|C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\\uC608\uC81C10-1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D25E123-0882-44A9-8B47-BE56D424449B}|\uC608\uC81C10-1\\\uC608\uC81C10-1.vcxproj|solutionrelative:\uC608\uC81C10-1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{46673F0D-6707-44E1-A800-26CE31E4DC45}|09-05\\09-05.vcxproj|C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\09-05\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{46673F0D-6707-44E1-A800-26CE31E4DC45}|09-05\\09-05.vcxproj|solutionrelative:09-05\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -136,18 +148,54 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\09-05\\main.cpp",
-              "RelativeDocumentMoniker": "09-05\\main.cpp",
-              "ToolTip": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\09-05\\main.cpp",
-              "RelativeToolTip": "09-05\\main.cpp",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAADkAAAACAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\\uC608\uC81C10-3\\main.cpp",
+              "RelativeDocumentMoniker": "\uC608\uC81C10-3\\main.cpp",
+              "ToolTip": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\\uC608\uC81C10-3\\main.cpp",
+              "RelativeToolTip": "\uC608\uC81C10-3\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-02T11:21:36.101Z",
+              "WhenOpened": "2026-06-02T11:51:59.34Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\\uC608\uC81C10-2\\main.cpp",
+              "RelativeDocumentMoniker": "\uC608\uC81C10-2\\main.cpp",
+              "ToolTip": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\\uC608\uC81C10-2\\main.cpp",
+              "RelativeToolTip": "\uC608\uC81C10-2\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-02T11:47:56.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\\uC608\uC81C10-1\\main.cpp",
+              "RelativeDocumentMoniker": "\uC608\uC81C10-1\\main.cpp",
+              "ToolTip": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\\uC608\uC81C10-1\\main.cpp",
+              "RelativeToolTip": "\uC608\uC81C10-1\\main.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-02T11:39:56.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\09-05\\main.cpp",
+              "RelativeDocumentMoniker": "09-05\\main.cpp",
+              "ToolTip": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\09-05\\main.cpp",
+              "RelativeToolTip": "09-05\\main.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwDMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-02T11:21:36.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\09-04\\main.cpp",
               "RelativeDocumentMoniker": "09-04\\main.cpp",
@@ -155,12 +203,11 @@
               "RelativeToolTip": "09-04\\main.cpp",
               "ViewState": "AgIAACMAAAAAAAAAAAAkwDYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-02T11:05:58.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T11:05:58.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\09-03\\main.cpp",
               "RelativeDocumentMoniker": "09-03\\main.cpp",
@@ -168,12 +215,11 @@
               "RelativeToolTip": "09-03\\main.cpp",
               "ViewState": "AgIAAAYAAAAAAAAAAAAkwBoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-02T10:54:47.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T10:54:47.155Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\09-02\\main.cpp",
               "RelativeDocumentMoniker": "09-02\\main.cpp",
@@ -181,12 +227,11 @@
               "RelativeToolTip": "09-02\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-02T10:21:46.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T10:21:46.623Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\09-01\\main.cpp",
               "RelativeDocumentMoniker": "09-01\\main.cpp",
@@ -198,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\08-06-ex\\main.cpp",
               "RelativeDocumentMoniker": "08-06-ex\\main.cpp",
@@ -210,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\08-06-2\\main.cpp",
               "RelativeDocumentMoniker": "08-06-2\\main.cpp",
@@ -222,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\08-06\\main.cpp",
               "RelativeDocumentMoniker": "08-06\\main.cpp",
@@ -234,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\08-05\\main.cpp",
               "RelativeDocumentMoniker": "08-05\\main.cpp",
@@ -246,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\08-04\\main.cpp",
               "RelativeDocumentMoniker": "08-04\\main.cpp",
@@ -258,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\08-03\\main.cpp",
               "RelativeDocumentMoniker": "08-03\\main.cpp",
@@ -270,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "main1.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\08-01\\main1.cpp",
               "RelativeDocumentMoniker": "08-01\\main1.cpp",
@@ -282,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\08-01\\main.cpp",
               "RelativeDocumentMoniker": "08-01\\main.cpp",
@@ -294,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\07-09\\main.cpp",
               "RelativeDocumentMoniker": "07-09\\main.cpp",
@@ -306,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\07-08\\main.cpp",
               "RelativeDocumentMoniker": "07-08\\main.cpp",
@@ -318,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\07-07\\main.cpp",
               "RelativeDocumentMoniker": "07-07\\main.cpp",
@@ -330,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\07-06\\main.cpp",
               "RelativeDocumentMoniker": "07-06\\main.cpp",
@@ -342,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\07-05\\main.cpp",
               "RelativeDocumentMoniker": "07-05\\main.cpp",
@@ -354,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\07-04-2\\main.cpp",
               "RelativeDocumentMoniker": "07-04-2\\main.cpp",
@@ -366,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\04\\main.cpp",
               "RelativeDocumentMoniker": "04\\main.cpp",
@@ -378,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\03-2\\main.cpp",
               "RelativeDocumentMoniker": "03-2\\main.cpp",
@@ -390,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\03\\main.cpp",
               "RelativeDocumentMoniker": "03\\main.cpp",
@@ -402,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\02\\main.cpp",
               "RelativeDocumentMoniker": "02\\main.cpp",
@@ -414,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\01\\main.cpp",
               "RelativeDocumentMoniker": "01\\main.cpp",
@@ -426,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\openChallenge\\main.cpp",
               "RelativeDocumentMoniker": "openChallenge\\main.cpp",
@@ -438,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\\uC608\uC81C7-1\\main.cpp",
               "RelativeDocumentMoniker": "\uC608\uC81C7-1\\main.cpp",
