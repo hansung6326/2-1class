@@ -29,7 +29,7 @@ public:
 	}
 	void earn(int pay);
 	void show();
-	Platinum& combine(Platinum& op);
+	void combine(Platinum& op);
 };
 void Platinum::earn(int pay) {
 	if (pay > base)
@@ -40,10 +40,9 @@ void Platinum::earn(int pay) {
 void Platinum::show() {
 	cout << name << "님*** 적립 포인트는 " << getPoint() << "점입니다." << endl;
 }
-Platinum& Platinum::combine(Platinum& op) {
+void Platinum::combine(Platinum& op) {
 	point += op.point;
 	op.point = 0;
-	return *this;
 }
 
 int main() {

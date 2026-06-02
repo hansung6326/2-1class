@@ -1,11 +1,11 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 
 class AbstractStack {
 public:
-	virtual bool push(int n) = 0; // ½ºÅÃ¿¡ nÀ» Çª½ÃÇÑ´Ù. ½ºÅÃÀÌ fullÀÌ¸é false ¸®ÅÏ
-	virtual bool pop(int& n) = 0; // ½ºÅÃ¿¡¼­ ÆËÇÑ Á¤¼ö¸¦ n¿¡ ¸®ÅÏÇÑ´Ù. ½ºÅÃÀÌ emptyÀÌ¸é false ¸®ÅÏ
-	virtual int size() = 0; // ÇöÀç ½ºÅÃ¿¡ ÀúÀåµÈ Á¤¼öÀÇ °³¼ö ¸®ÅÏ
+	virtual bool push(int n) = 0; // ï¿½ï¿½ï¿½Ã¿ï¿½ nï¿½ï¿½ Çªï¿½ï¿½ï¿½Ñ´ï¿½. ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ fullï¿½Ì¸ï¿½ false ï¿½ï¿½ï¿½ï¿½
+	virtual bool pop(int& n) = 0; // ï¿½ï¿½ï¿½Ã¿ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ nï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ñ´ï¿½. ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ emptyï¿½Ì¸ï¿½ false ï¿½ï¿½ï¿½ï¿½
+	virtual int size() = 0; // ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ã¿ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 };
 
 class IntStack : public AbstractStack {
@@ -17,7 +17,7 @@ public:
 	~IntStack();
 	bool push(int n);
 	bool pop(int& n);
-	int size() { return tos; } // tos´Â ÇöÀç ½ºÅÃ¿¡ »ðÀÔµÈ Á¤¼öÀÇ °³¼ö¿Í µ¿ÀÏ
+	int size() { return tos; } // tosï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ã¿ï¿½ ï¿½ï¿½ï¿½Ôµï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 };
 
 IntStack::IntStack(int size) {
@@ -51,14 +51,14 @@ bool IntStack::pop(int& n) {
 
 int main() {
 	IntStack a(5);
-	for (int i = 0; i < 10; i++) { // Ã³À½ 5 °³¸¦ ¼º°øÀûÀ¸·Î pushµÇ°í ´ÙÀ½ 5 °³´Â ½ºÅÃ full·Î push ½ÇÆÐ
-		if (a.push(i)) cout << "push ¼º°ø" << endl;
-		else cout << "½ºÅÃ full" << endl;
+	for (int i = 0; i < 10; i++) { // Ã³ï¿½ï¿½ 5 ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ pushï¿½Ç°ï¿½ ï¿½ï¿½ï¿½ï¿½ 5 ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ fullï¿½ï¿½ push ï¿½ï¿½ï¿½ï¿½
+		if (a.push(i)) cout << "push ï¿½ï¿½ï¿½ï¿½" << endl;
+		else cout << "ï¿½ï¿½ï¿½ï¿½ full" << endl;
 	}
 
 	int n;
-	for (int i = 0; i < 10; i++) { // Ã³À½ 5 °³¸¦ ¼º°øÀûÀ¸·Î popµÇ°í ´ÙÀ½ 5 °³´Â ½ºÅÃ empty·Î pop ½ÇÆÐ
-		if (a.pop(n)) cout << "pop ¼º°ø " << n << endl;
-		else cout << "½ºÅÃ empty" << endl;
+	for (int i = 0; i < 10; i++) { // Ã³ï¿½ï¿½ 5 ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ popï¿½Ç°ï¿½ ï¿½ï¿½ï¿½ï¿½ 5 ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ emptyï¿½ï¿½ pop ï¿½ï¿½ï¿½ï¿½
+		if (a.pop(n)) cout << "pop ï¿½ï¿½ï¿½ï¿½ " << n << endl;
+		else cout << "ï¿½ï¿½ï¿½ï¿½ empty" << endl;
 	}
 }
