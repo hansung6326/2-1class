@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace\\2026_s1_02_oop1\\material\\\uC2E4\uC2B5\uBB38\uC81C \uCF54\uB4DC\\Practice 07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B375F76-4E58-4526-85E8-B78CFC9E4058}|07-07-1\\07-07-1.vcxproj|C:\\Workspace\\2026_s1_02_oop1\\material\\\uC2E4\uC2B5\uBB38\uC81C \uCF54\uB4DC\\Practice 07\\07-07-1\\matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B375F76-4E58-4526-85E8-B78CFC9E4058}|07-07-1\\07-07-1.vcxproj|solutionrelative:07-07-1\\matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "matrix.cpp",
+              "DocumentMoniker": "C:\\Workspace\\2026_s1_02_oop1\\material\\\uC2E4\uC2B5\uBB38\uC81C \uCF54\uB4DC\\Practice 07\\07-07-1\\matrix.cpp",
+              "RelativeDocumentMoniker": "07-07-1\\matrix.cpp",
+              "ToolTip": "C:\\Workspace\\2026_s1_02_oop1\\material\\\uC2E4\uC2B5\uBB38\uC81C \uCF54\uB4DC\\Practice 07\\07-07-1\\matrix.cpp",
+              "RelativeToolTip": "07-07-1\\matrix.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-01T03:02:03.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
