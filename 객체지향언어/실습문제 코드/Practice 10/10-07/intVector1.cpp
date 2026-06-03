@@ -1,22 +1,22 @@
-#include <iostream>
+ï»¿#include <iostream>
 #include <vector>
 using namespace std;
 
 void biggest(vector<int>& v) {
 	int big = v[0];
-	for (int i = 0; i < v.size(); i++) {
+	for (size_t i = 0; i < v.size(); i++) {
 		if (big < v[i])
 			big = v[i];
 	}
-	cout << "°¡Àå Å« °ª " << big << endl;
+	cout << "ê°€ì¥ í° ìˆ˜ " << big << endl;
 }
 
 void average(vector<int>& v) {
 	int sum = 0;
-	for (int i = 0; i < v.size(); i++) {
+	for (size_t i = 0; i < v.size(); i++) {
 		sum += v[i];
 	}
-	cout << "Æò±Õ " << ((double)sum) / v.size() << endl;
+	cout << "í‰ê·  " << ((double)sum) / v.size() << endl;
 }
 
 void add(vector<int>& v, int n) {
@@ -24,7 +24,7 @@ void add(vector<int>& v, int n) {
 }
 
 void increase(vector<int>& v, int n) {
-	for (int i = 0; i < v.size(); i++) {
+	for (size_t i = 0; i < v.size(); i++) {
 		v[i] *= n;
 		cout << v[i] << ' ';
 	}
@@ -34,9 +34,14 @@ void increase(vector<int>& v, int n) {
 void purge(vector<int>& v, int n) {
 	vector<int>::iterator it;
 
-	for (it = v.begin(); it != v.end(); it++) {
-		if (*it == n)
+	// ë°˜ë³µë¬¸ ë‚´ë¶€ì—ì„œ erase ì‚¬ìš© ì‹œ ì•ˆì „í•˜ê²Œ ë°˜ë³µìë¥¼ ì—…ë°ì´íŠ¸í•´ì•¼ í•©ë‹ˆë‹¤.
+	for (it = v.begin(); it != v.end(); ) {
+		if (*it == n) {
 			it = v.erase(it);
+		}
+		else {
+			it++;
+		}
 	}
 
 	for (it = v.begin(); it != v.end(); it++) {
@@ -48,7 +53,7 @@ void purge(vector<int>& v, int n) {
 int main() {
 	vector<int> v;
 
-	cout << "10°³ÀÇ Á¤¼ö ÀÔ·Â>>";
+	cout << "10ê°œì˜ ì •ìˆ˜ ì…ë ¥>>";
 	for (int i = 0; i < 10; i++) {
 		int n;
 		cin >> n;
@@ -57,33 +62,33 @@ int main() {
 
 	while (true) {
 		int n;
-		cout << "°¡ÀåÅ«°ª:1, Æò±Õ:2, »ğÀÔ:3, »èÁ¦:4, Áõ°¡:5, Á¾·á:6>>";
+		cout << "ê°€ì¥í°ìˆ˜:1, í‰ê· :2, ì¶”ê°€:3, ì‚­ì œ:4, ê³±í•˜ê¸°:5, ì¢…ë£Œ:6>>";
 		int menu;
 		cin >> menu;
 		switch (menu) {
-			case 1: 
-				biggest(v); 
-				break;
-			case 2: 
-				average(v); 
-				break;
-			case 3:
-				cout << "»ğÀÔÇÒ °ª>>";
-				cin >> n;
-				add(v, n); 
-				break;
-			case 4:
-				cout << "»èÁ¦ÇÒ °ª>>";
-				cin >> n;
-				purge(v, n); 
-				break;
-			case 5:
-				cout << "¸î¹è·Î Áõ°¡>>";
-				cin >> n;
-				increase(v, n); 
-				break;
-			case 6:
-				return 0;
+		case 1:
+			biggest(v);
+			break;
+		case 2:
+			average(v);
+			break;
+		case 3:
+			cout << "ì¶”ê°€í•  ìˆ˜>>";
+			cin >> n;
+			add(v, n);
+			break;
+		case 4:
+			cout << "ì‚­ì œí•  ìˆ˜>>";
+			cin >> n;
+			purge(v, n);
+			break;
+		case 5:
+			cout << "ê³±í•  ì •ìˆ˜>>";
+			cin >> n;
+			increase(v, n);
+			break;
+		case 6:
+			return 0;
 		}
 	}
 }

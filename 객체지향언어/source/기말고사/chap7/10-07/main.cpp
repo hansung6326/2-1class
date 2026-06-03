@@ -46,6 +46,10 @@ int main() {
 				else
 					it++;
 			}
+			for (it = v.begin(); it != v.end(); it++) {
+				cout << *it << ' ';
+			}
+			cout << endl;
 			break;
 		case 5:
 			cout << "몇배로 증가>>";
