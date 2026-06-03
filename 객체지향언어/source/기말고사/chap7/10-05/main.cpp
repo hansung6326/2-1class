@@ -14,7 +14,7 @@ int main() {
 	}
 
 	double sum = 0;
-	for (int i = 0; i < 6; i++) {
+	for (int i = 0; i < v.size(); i++) {
 		if (v[i] == "A+")
 			sum += 4.5;
 		else if (v[i] == "A")
@@ -34,5 +34,5 @@ int main() {
 		else if (v[i] == "F")
 			sum += 0;
 	}
-	cout << "학점 평균은 " << sum / 6 << endl;
+	cout << "학점 평균은 " << sum / v.size() << endl;
 }
