@@ -3,7 +3,7 @@ using namespace std;
 
 template <class T>
 bool add(T a[], int size, int addindex, T b) {
-	if (addindex > size - 1)
+	if (addindex < 0 || addindex >= size)
 		return false;
 	a[addindex] = b;
 	return true;
