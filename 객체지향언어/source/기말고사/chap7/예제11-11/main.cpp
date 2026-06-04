@@ -29,4 +29,5 @@ int main() {
 	Point p;
 	cin >> p;
 	cout << p;
+	return 0;
 }
