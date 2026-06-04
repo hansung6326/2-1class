@@ -1,14 +1,14 @@
-#include <iostream>
+ï»¿#include <iostream>
 #include <string>
 using namespace std;
 
 int main() {
 	string cmd;
 	while (true) {
-		cout << "Á¾·áÇÏ·Á¸é ¾ÏÈ£¸¦ ÀÔ·ÂÇÏ¼¼¿ä>>";
-		getline(cin,cmd); // Å©±â Á¦ÇÑ¾øÀÌ ¹®ÀÚ ÀÔ·Â
+		cout << "ï¿½ï¿½ï¿½ï¿½ï¿½Ï·ï¿½ï¿½ï¿½ ï¿½ï¿½È£ï¿½ï¿½ ï¿½Ô·ï¿½ï¿½Ï¼ï¿½ï¿½ï¿½>>";
+		getline(cin,cmd); // Å©ï¿½ï¿½ ï¿½ï¿½ï¿½Ñ¾ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ô·ï¿½
 		if (cmd =="see you later") {
-			cout << "ÇÁ·Î±×·¥À» Á¾·áÇÕ´Ï´Ù....";
+			cout << "ï¿½ï¿½ï¿½Î±×·ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Õ´Ï´ï¿½....";
 			return 0;
 		}
 	}
