@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4A55B10D-9296-4CEB-B8F0-8E439ACE06E4}|11-07\\11-07.vcxproj|C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\11-07\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A55B10D-9296-4CEB-B8F0-8E439ACE06E4}|11-07\\11-07.vcxproj|solutionrelative:11-07\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{470D2364-A7F6-4F48-A35E-D1349DDD9BE0}|11-06\\11-06.vcxproj|C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\11-06\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{470D2364-A7F6-4F48-A35E-D1349DDD9BE0}|11-06\\11-06.vcxproj|solutionrelative:11-06\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -68,18 +72,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
+              "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\11-07\\main.cpp",
+              "RelativeDocumentMoniker": "11-07\\main.cpp",
+              "ToolTip": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\11-07\\main.cpp",
+              "RelativeToolTip": "11-07\\main.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-05T14:33:52.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\11-06\\main.cpp",
               "RelativeDocumentMoniker": "11-06\\main.cpp",
               "ToolTip": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\11-06\\main.cpp",
               "RelativeToolTip": "11-06\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-06-04T11:33:28.148Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\11-05\\main.cpp",
               "RelativeDocumentMoniker": "11-05\\main.cpp",
@@ -87,12 +104,11 @@
               "RelativeToolTip": "11-05\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-04T10:59:55.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-04T10:59:55.527Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\11-04\\main.cpp",
               "RelativeDocumentMoniker": "11-04\\main.cpp",
@@ -100,12 +116,11 @@
               "RelativeToolTip": "11-04\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-04T10:40:45.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-04T10:40:45.031Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\11-03\\main.cpp",
               "RelativeDocumentMoniker": "11-03\\main.cpp",
@@ -113,12 +128,11 @@
               "RelativeToolTip": "11-03\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-04T10:35:31.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-04T10:35:31.482Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\11-02\\main.cpp",
               "RelativeDocumentMoniker": "11-02\\main.cpp",
@@ -126,12 +140,11 @@
               "RelativeToolTip": "11-02\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-04T10:22:46.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-04T10:22:46.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\11-01\\main.cpp",
               "RelativeDocumentMoniker": "11-01\\main.cpp",
@@ -139,12 +152,11 @@
               "RelativeToolTip": "11-01\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-04T10:16:01.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-04T10:16:01.364Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\\uC608\uC81C11-11\\main.cpp",
               "RelativeDocumentMoniker": "\uC608\uC81C11-11\\main.cpp",
@@ -152,12 +164,11 @@
               "RelativeToolTip": "\uC608\uC81C11-11\\main.cpp",
               "ViewState": "AgIAAAkAAAAAAAAAAAAkwB8AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-04T08:37:25.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-04T08:37:25.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\\uC608\uC81C11-10\\main.cpp",
               "RelativeDocumentMoniker": "\uC608\uC81C11-10\\main.cpp",
@@ -165,12 +176,11 @@
               "RelativeToolTip": "\uC608\uC81C11-10\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-04T08:32:42.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-04T08:32:42.518Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\\uC608\uC81C11-5\\main.cpp",
               "RelativeDocumentMoniker": "\uC608\uC81C11-5\\main.cpp",
@@ -178,8 +188,7 @@
               "RelativeToolTip": "\uC608\uC81C11-5\\main.cpp",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-04T07:54:48.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-04T07:54:48.853Z"
             }
           ]
         }
