@@ -25,7 +25,7 @@ istream& operator >>(istream& ist, Phone& p) {
 }
 
 ostream& operator <<(ostream& ost, Phone p) {
-	ost << "(" << p.name << "," << p.telnum << "," << p.address << ")" << endl;
+	ost << "(" << p.name << "," << p.telnum << "," << p.address << ")";
 	return ost;
 }
 
