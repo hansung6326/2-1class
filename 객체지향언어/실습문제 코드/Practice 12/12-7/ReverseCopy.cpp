@@ -19,7 +19,7 @@ int main() {
 	int fileSize = fin.tellg(); 
 	
 	for(int i=0; i<fileSize; i++) {
-		fin.seekg(fileSize-i, ios::beg);
+		fin.seekg(fileSize-i - 1, ios::beg);
 		int ch = fin.get();
 		fout.put(ch);
 	}
