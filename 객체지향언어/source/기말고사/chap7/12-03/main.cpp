@@ -14,6 +14,5 @@ int main() {
 	while ((c = fin.get()) != EOF) {
 		cout << (char)toupper(c);
 	}
-
 	fin.close();
 }
