@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\2026_class\객체지향언어\source\기말고사\chap7\12-06\main.cpp(19,11): warning C4244: '초기화 중': 'std::streamoff'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  12-06.vcxproj -> C:\2026_class\객체지향언어\source\기말고사\chap7\x64\Debug\12-06.exe
