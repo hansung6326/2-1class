@@ -15,6 +15,5 @@ int main() {
 	while (getline(fin, line)) {
 		cout << line << endl;
 	}
-
 	fin.close();
 }
