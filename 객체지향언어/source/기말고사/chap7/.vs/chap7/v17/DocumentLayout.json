@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E0EFF973-CB42-4906-8E78-9A0B50D6D047}|12-07\\12-07.vcxproj|C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\12-07\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0EFF973-CB42-4906-8E78-9A0B50D6D047}|12-07\\12-07.vcxproj|solutionrelative:12-07\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F6D769D3-D3C0-4B58-B381-4C5B833279E8}|12-06\\12-06.vcxproj|C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\12-06\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F6D769D3-D3C0-4B58-B381-4C5B833279E8}|12-06\\12-06.vcxproj|solutionrelative:12-06\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -56,18 +60,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
+              "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\12-07\\main.cpp",
+              "RelativeDocumentMoniker": "12-07\\main.cpp",
+              "ToolTip": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\12-07\\main.cpp",
+              "RelativeToolTip": "12-07\\main.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-06T10:31:47.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\12-06\\main.cpp",
               "RelativeDocumentMoniker": "12-06\\main.cpp",
               "ToolTip": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\12-06\\main.cpp",
               "RelativeToolTip": "12-06\\main.cpp",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCMAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-06-06T09:51:06.789Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\12-05\\main.cpp",
               "RelativeDocumentMoniker": "12-05\\main.cpp",
@@ -80,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\12-04\\main.cpp",
               "RelativeDocumentMoniker": "12-04\\main.cpp",
@@ -93,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\12-03\\main.cpp",
               "RelativeDocumentMoniker": "12-03\\main.cpp",
@@ -106,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\12-02\\main.cpp",
               "RelativeDocumentMoniker": "12-02\\main.cpp",
@@ -119,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\\uAE30\uB9D0\uACE0\uC0AC\\chap7\\12-01\\main.cpp",
               "RelativeDocumentMoniker": "12-01\\main.cpp",

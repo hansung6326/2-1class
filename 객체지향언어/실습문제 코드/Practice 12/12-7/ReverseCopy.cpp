@@ -1,29 +1,29 @@
-#include <iostream>
+ï»¿#include <iostream>
 #include <fstream>
 using namespace std;
 
 int main() {
 	ifstream fin("c:\\windows\\system.ini", ios::in | ios::binary);
 	if(!fin) {
-		cout <<"c:\\windows\\system.ini ¿­±â ¿À·ù";
+		cout <<"c:\\windows\\system.ini ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½";
 		return 0;
 	}
 	ofstream fout("c:\\temp\\system.txt" , ios::out | ios::binary);
 	if(!fout) {
-		cout << "c:\\temp\\system.txt ¿­±â ¿À·ù";
+		cout << "c:\\temp\\system.txt ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½";
 		return 0;
 	}
 
-	// ÆÄÀÏ Å©±â ¾Ë¾Æ³»±â
+	// ï¿½ï¿½ï¿½ï¿½ Å©ï¿½ï¿½ ï¿½Ë¾Æ³ï¿½ï¿½ï¿½
 	fin.seekg(0, ios::end);
 	int fileSize = fin.tellg(); 
 	
 	for(int i=0; i<fileSize; i++) {
-		fin.seekg(fileSize-1-i, ios::beg);
+		fin.seekg(fileSize-i, ios::beg);
 		int ch = fin.get();
 		fout.put(ch);
 	}
-	cout << "º¹»ç ¿Ï·á" << endl;
+	cout << "ï¿½ï¿½ï¿½ï¿½ ï¿½Ï·ï¿½" << endl;
 
 	fin.close();
 	fout.close();
