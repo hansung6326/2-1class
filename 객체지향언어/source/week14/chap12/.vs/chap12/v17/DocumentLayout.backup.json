@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,6 +41,10 @@
               "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
@@ -48,7 +52,7 @@
               "RelativeDocumentMoniker": "copy\\main.cpp",
               "ToolTip": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\source\\week14\\chap12\\copy\\main.cpp",
               "RelativeToolTip": "copy\\main.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-06-02T08:28:40.415Z",
               "EditorCaption": ""
@@ -63,8 +67,7 @@
               "RelativeToolTip": "dic\\main.cpp",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-02T07:52:56.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T07:52:56.435Z"
             },
             {
               "$type": "Document",
@@ -76,8 +79,7 @@
               "RelativeToolTip": "fread\\main.cpp",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-02T07:33:28.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T07:33:28.512Z"
             },
             {
               "$type": "Document",
@@ -89,8 +91,7 @@
               "RelativeToolTip": "fstream\\main.cpp",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-02T06:13:03.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T06:13:03.758Z"
             }
           ]
         }
