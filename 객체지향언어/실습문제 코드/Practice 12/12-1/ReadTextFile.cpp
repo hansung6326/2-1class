@@ -1,12 +1,12 @@
-#include <iostream>
+ï»¿#include <iostream>
 #include <fstream>
 using namespace std;
 
 int main() {
 	ifstream fin("c:\\temp\\test.txt");
 	if(!fin) {
-		cout << "¿­±â ¿À·ù" << endl;
-		cout << "°æ·Î¸íÀÌ ¿ÇÀºÁö ÆÄÀÏÀÌ ÀÖ´ÂÁö È®ÀÎÇÏ¼¼¿ä" << endl;
+		cout << "ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½" << endl;
+		cout << "ï¿½ï¿½Î¸ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ö´ï¿½ï¿½ï¿½ È®ï¿½ï¿½ï¿½Ï¼ï¿½ï¿½ï¿½" << endl;
 		return 0;
 	}
 	int ch;

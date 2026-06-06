@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 #include <fstream>
 using namespace std;
 
@@ -6,7 +6,7 @@ int main() {
 	ifstream fin("C:\\windows\\system.ini");
 
 	if(!fin) {
-		cout << "¿­±â ¿À·ù";
+		cout << "ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½";
 		return 0;
 	}
 

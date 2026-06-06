@@ -1,29 +1,29 @@
-#include <iostream>
+ï»¿#include <iostream>
 #include <fstream>
 using namespace std;
 
 int main() {
 	ifstream fin("ShowNoComment.cpp");
-	if(!fin) {
-		cout <<"ShowNoComment.cpp ¿­±â ¿À·ù";
+	if (!fin) {
+		cout << "ShowNoComment.cpp íŒŒì¼ ì—´ê¸° ì˜¤ë¥˜";
 		return 0;
 	}
 	int ch;
-	bool found=false;
-	while((ch=fin.get()) != EOF) {
-		if(ch == '/') {
-			if(found == false) 
-				found = true; // ½½·¡½Ã ÇÑ°³ ¹ß°ß. ÁÖ¼® ½ÃÀÛ ¼³Á¤
-			else { // ¿¬¼ÓµÈ µÎ °³ÀÇ // ¹ß°ß
-				fin.ignore(100,'\n'); // '\n'À» ¸¸³¯ ¶§±îÁö 100°³ÀÇ ¹®ÀÚ ¹«½Ã
+	bool found = false;
+	while ((ch = fin.get()) != EOF) {
+		if (ch == '/') {
+			if (found == false)
+				found = true; // ìŠ¬ëž˜ì‹œ í•œ ê°œ ë°œê²¬. ì£¼ì„ ì‹œìž‘ ê°€ëŠ¥ì„±
+			else { // ì—°ì†ëœ ë‘ ê°œì˜ ìŠ¬ëž˜ì‹œ // ë°œê²¬
+				fin.ignore(100, '\n'); // '\n'ì´ ë‚˜ì˜¬ ë•Œê¹Œì§€ ìµœëŒ€ 100ê°œì˜ ë¬¸ìž ê±´ë„ˆë›°ê¸°
 				cout.put('\n');
-				found = false; // ÁÖ¼® Á¦°Å ¿Ï·á
+				found = false; // ì£¼ì„ ì²˜ë¦¬ ì™„ë£Œ
 			}
 		}
 		else {
-			if(found == true) { // ½½·¡½Ã°¡ ÇÑ °³ º°µµ ¹®ÀÚ·Î ÀÖ´Â °æ¿ì
-				cout << "/"; // '/'°¡ ¹ß°ßµÈ ´ÙÀ½ ¿¬¼ÓµÈ '/'°¡ ¿ÀÁö ¾ÊÀ¸¸é Áö³­¹ø '/' Ãâ·Â
-				found = false; // ÁÖ¼® ½ÃÀÛ Å¬¸®¾î
+			if (found == true) { // ìŠ¬ëž˜ì‹œê°€ í•œ ê°œë§Œ ë‚˜ì˜¤ê³  ë‹¤ë¥¸ ë¬¸ìžê°€ ë‚˜ì˜¤ëŠ” ê²½ìš°
+				cout << "/"; // '/'ê°€ ë°œê²¬ëœ ë’¤ ì—°ì†ëœ '/'ê°€ ì•„ë‹ˆì—ˆìœ¼ë¯€ë¡œ ìƒëžµí–ˆë˜ '/' ì¶œë ¥
+				found = false; // ì£¼ì„ ì²˜ë¦¬ í´ë¦¬ì–´
 			}
 			cout.put(ch);
 		}
