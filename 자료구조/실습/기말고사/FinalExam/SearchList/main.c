@@ -16,10 +16,10 @@ ListNode* insert_first(ListNode* head, element value) {
 	return head;
 }
 
-ListNode* insert(ListNode* head, ListNode* element,int value) {
+ListNode* insert(ListNode* head, ListNode* pre, element value) {
 	ListNode* p = (ListNode*)malloc(sizeof(ListNode));
 	p->data = value;
-	
+
 	p->link = pre->link;
 	pre->link = p;
 	return head;
@@ -51,6 +51,17 @@ void print_list(ListNode* head) {
 		printf("%d->", p->data);
 	}
 	printf("NULL \n");
+}
+
+ListNode* search_list(ListNode* head, element x) {
+	ListNode* p = head;
+
+	while (p != NULL) {
+		if (p->data == x)
+			return p;
+		p = p->link;
+	}
+	return NULL;
 }
 
 int main() {
