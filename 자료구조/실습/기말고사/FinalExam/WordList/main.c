@@ -25,6 +25,13 @@ ListNode* insert_first(ListNode* head, element value) {
 	return head;
 }
 
+void print_list(ListNode* head) {
+	for (ListNode* p = head; p != NULL; p = p->link) {
+		printf("%s->", p->data.name);
+	}
+	printf("NULL \n");
+}
+
 //ListNode* insert(ListNode* head, ListNode* pre, element value) {
 //	ListNode* p = (ListNode*)malloc(sizeof(ListNode));
 //	p->data = value;
@@ -54,13 +61,6 @@ ListNode* insert_first(ListNode* head, element value) {
 //
 //	return head;
 //}
-
-void print_list(ListNode* head) {
-	for (ListNode* p = head; p != NULL; p = p->link) {
-		printf("%s->", p->data.name);
-	}
-	printf("NULL \n");
-}
 
 int main() {
 	ListNode* head = NULL;
