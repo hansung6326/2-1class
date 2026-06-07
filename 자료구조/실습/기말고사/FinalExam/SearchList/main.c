@@ -66,12 +66,16 @@ ListNode* search_list(ListNode* head, element x) {
 
 int main() {
 	ListNode* head = NULL;
-	for (int i = 0; i < 5; i++) {
-		head = insert_first(head, i);
-		print_list(head);
-	}
-	for (int i = 0; i < 5; i++) {
-		head = delete_first(head);
-		print_list(head);
-	}
+	
+	head = insert_first(head, 10);
+	print_list(head);
+	head = insert_first(head, 20);
+	print_list(head);
+	head = insert_first(head, 30);
+	print_list(head);
+
+	if (search_list(head, 30) != NULL)
+		printf("리스트에서 30을 찾았습니다. \n");
+	else
+		printf("리스트에서 30을 찾지 못했습니다. \n");
 }

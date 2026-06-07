@@ -19,7 +19,7 @@ ListNode* insert_first(ListNode* head, element value) {
 ListNode* insert(ListNode* head, ListNode* pre, element value) {
 	ListNode* p = (ListNode*)malloc(sizeof(ListNode));
 	p->data = value;
-	
+
 	p->link = pre->link;
 	pre->link = p;
 	return head;
@@ -53,14 +53,34 @@ void print_list(ListNode* head) {
 	printf("NULL \n");
 }
 
+ListNode* concat_list(ListNode* head1, ListNode* head2) {
+	if (head1 == NULL)
+		return head2;
+	else if (head2 == NULL)
+		return head1;
+	else {
+		ListNode* p = head1;
+		while (p->link != NULL) {
+			p = p->link;
+		}
+		p->link = head2;
+		return head1;
+	}
+}
+
 int main() {
-	ListNode* head = NULL;
-	for (int i = 0; i < 5; i++) {
-		head = insert_first(head, i);
-		print_list(head);
-	}
-	for (int i = 0; i < 5; i++) {
-		head = delete_first(head);
-		print_list(head);
-	}
+	ListNode* head1 = NULL;
+	ListNode* head2 = NULL;
+	
+	head1 = insert_first(head1, 10);
+	head1 = insert_first(head1, 20);
+	head1 = insert_first(head1, 30);
+	print_list(head1);
+
+	head2 = insert_first(head2, 40);
+	head2 = insert_first(head2, 50);
+	print_list(head2);
+
+	head1 = concat_list(head1, head2);
+	print_list(head1);
 }
