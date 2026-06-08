@@ -39,6 +39,36 @@ public:
 	}
 };
 
+class ShortestFirst : public Schedule {
+public:
+	ShortestFirst(int curloc, int n[], int count) : Schedule(curloc, n, count){}
+	void run() {
+		bool* visited = new bool[count]();
+		int sum = 0;
+
+		cout << "현재 위치는 " << curLoc << "동: 배달 시작 ..." << curLoc;
+		for (int i = 0; i < getJobs(); i++) {
+			int shortest = -1;
+			for (int j = 0; j < getJobs(); j++) {
+				if (!visited[j]) {
+					if (shortest == -1 || abs(getCurLoc() - jobs[j]) < abs(getCurLoc() - jobs[shortest]))
+						shortest = j;
+				}
+			}
+			sum += abs(getCurLoc() - jobs[shortest]);
+			curLoc = jobs[shortest];
+			cout << " -> " << jobs[shortest];
+			visited[shortest] = true;
+		}
+		cout << endl;
+		cout << "전체 움직인 거리는 " << sum << ", ";
+		cout << "현재 위치는 " << getCurLoc() << "동" << endl;
+
+		delete[] visited;
+	}
+	
+};
+
 int main() {
 	int jobs[6];
 	cout << "택배를 픽업할 동을 요청 순서대로 6개 입력>>";
@@ -46,4 +76,7 @@ int main() {
 		cin >> jobs[i];
 	Schedule fcfs(10, jobs, 6);
 	fcfs.run();
+	
+	ShortestFirst sf(10, jobs, 6);
+	sf.run();
 }
