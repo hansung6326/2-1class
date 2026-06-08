@@ -45,6 +45,41 @@ void inorder_iter(TreeNode* root) {
 	}
 }
 
+void preorder_iter(TreeNode* root) {
+	while (1) {
+		for (; root; root = root->left) {
+			printf("[%d] ", root->data);
+			push(root);
+		}
+		root = pop();
+		if (!root)
+			break;
+		root = root->right;
+	}
+}
+
+void postorder_iter(TreeNode* root) {
+	TreeNode* lastVisited = NULL;
+
+	while (root || top != -1) {
+
+		if (root) {
+			push(root);
+			root = root->left;
+		}
+		else {
+			TreeNode* peek = stack[top];
+
+			if (peek->right && lastVisited != peek->right)
+				root = peek->right;
+			else {
+				printf("[%d] ", peek->data);
+				lastVisited = pop();
+			}
+		}
+	}
+}
+
 int main() {
 
 	printf("중위 순회 = ");
