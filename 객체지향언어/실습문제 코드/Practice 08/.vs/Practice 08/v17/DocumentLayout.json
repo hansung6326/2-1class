@@ -14,8 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +36,7 @@
               "RelativeDocumentMoniker": "08-05\\goldMember.cpp",
               "ToolTip": "C:\\2026_class\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B4\\\uC2E4\uC2B5\uBB38\uC81C \uCF54\uB4DC\\Practice 08\\08-05\\goldMember.cpp",
               "RelativeToolTip": "08-05\\goldMember.cpp",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-06-01T14:49:34.122Z",
               "EditorCaption": ""
