@@ -1,0 +1,3 @@
+﻿  main.c
+C:\2026_class\자료구조\실습\기말고사\FinalExam\huffman2\main.c(105,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  huffman2.vcxproj -> C:\2026_class\자료구조\실습\기말고사\FinalExam\x64\Debug\huffman2.exe
